@@ -70,3 +70,4 @@ print('Data saved to cleaned_student_scores.csv')
 # ['Girish', 88, 92, 85, 88.33]
 # ['Pallavi', 76, 89, 78, 81.0]
 # ['Hridu', 92, 85, 91, 89.33]
+
